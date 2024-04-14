@@ -1,26 +1,6 @@
 IM-Analytics Qualification Test
 
 
-As a Data Scientist you typically have to overcome multiple technical challenges related to data science itself, but at the same time, you must always take into consideration clients’ needs and translate them into quantitative hypotheses and solutions that can be communicated to a lay audience. This latter point is precisely what this test is all about. In this document you’ll find a problem described as a short story. During the challenge you will perform certain activities and produce some output. Specifically, we request you to please send us the following:
-
-All the code. All the code you created to process and cleanse data, perform EDA, generate graphs, create statistical or machine-learning models, etc. Feel free to work in the programming language of your choice. Don’t forget to include comments stating your thought processes and ideas, even the ones that were not successful. Extra points will be given if you use some sort of shareable notebook in python!
-
-A findings report. As a Data Scientist you always have to communicate your results to your peers, company, and/or clients. Please send us a presentation with your findings, so you can show your communication skills by building a report with a clear narrative, summarizing technical highlights and including conclusions. 
-
-
-Rules and Expectations.
-
-You have 72 hours to submit your output from the day and time you received this write-up.
-
-We expect you to spend 3 to 4 hours cracking at the described problem.
-
-Your output should be sent to recruiting@exploration.mx.
-
-
-Output. You can send us your output as files attached in an email, as a link to a public repository (e.g., Github or Bitbucket), or as an online notebook.
-
-
-
 The lapidarist problem
 
 This problem is for you to:
